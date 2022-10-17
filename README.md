@@ -1,8 +1,8 @@
 # python-urban
 
 ## О работе
-- 
-- 
+- Адрианова Екатерина Германовна
+- https://colab.research.google.com/drive/1H94ZChvaijQ9dkGlxOso3TkoqsPmgMur?usp=sharing
 
 ## Описание
 Итоговый проект для расчета количества объктов культурного наследия для улиц в выбранном районе Санкт-Петербурга. 
